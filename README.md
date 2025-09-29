@@ -39,7 +39,7 @@ The main objective is to build and deploy a robust image colorization system usi
 
 1. **Clone the Repository:**  
    ```bash
-   git clone <https://github.com/Nagasai16/Autochroma-Neural-Network-Colorization-using-Deep-learning/tree/main>
+   git clone [https://github.com/Nagasai16/Autochroma-Neural-Network-Colorization-using-Deep-learning/tree/main](https://github.com/Nagasai16/Autochroma-Neural-Network-Colorization-using-Deep-learning.git)
    cd autochroma
    ```
    
