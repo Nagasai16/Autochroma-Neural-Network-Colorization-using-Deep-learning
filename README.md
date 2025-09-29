@@ -41,13 +41,17 @@ The main objective is to build and deploy a robust image colorization system usi
    ```bash
    git clone <https://github.com/Nagasai16/Autochroma-Neural-Network-Colorization-using-Deep-learning/new/main?filename=README.md>
    cd autochroma
+   ```
+   
 2.**Install Dependencies:**   
     ```bash
     pip install -r requirements.txt
     ```
+    
 3.**Run the Flask App:**
    ```bash
     python app.py
+  
    ```
 4.**Access in Browser:**
    Open your browser and go to http://127.0.0.1:5000.
