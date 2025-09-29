@@ -59,10 +59,10 @@ The main objective is to build and deploy a robust image colorization system usi
 ---
 
 ### 📚 ***Technologies & Resources***
-**Backend:** Python,Flask
-**Computer Vision:** OpenCV
-**Deep Learning:** TensorFlow,PyTorch
-**Models:** CNNs, U-Net, DeOldify, GANs
+* **Backend:** Python,Flask
+* **Computer Vision:** OpenCV
+* **Deep Learning:** TensorFlow,PyTorch
+* **Models:** CNNs, U-Net, DeOldify, GANs
 
 ---
 
