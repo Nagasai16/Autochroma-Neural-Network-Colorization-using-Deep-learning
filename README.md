@@ -1,4 +1,4 @@
-# 🎨 AutoChroma: Neural Network Colorization  
+# 🎨 AutoChroma Neural Network Colorization  
 
 This repository contains the source code for a web application that uses deep learning to colorize grayscale images. The goal is to provide an intelligent and user-friendly tool that brings black-and-white photos to life with realistic colors.  
 
